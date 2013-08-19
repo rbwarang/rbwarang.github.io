@@ -1,3 +1,16 @@
 name: CFO Support
 markdown: redcarpet
 pygments: true
+
+
+permalink: /services/:title
+permalink: /required/:title
+permalink: /faq/:title
+permalink: /about/:title
+auto: true
+
+
+name: rbwarang
+url: http://rbwarang/github.io
+description: Jekyll blog is ninja
+
