@@ -1,11 +1,11 @@
 ---
 layout: default
-title: CFO Support
+title: Excellent CFO Support
 ---
 
 <section class="content">
 
-    <div class="container-fluid">
+    <div class="container">
      
       <div class="row-fluid">
         <div class="span12">
@@ -14,14 +14,72 @@ title: CFO Support
       <div class="row-fluid">        
           <div class="span2">           
           </div>
+          <style type="text/css">
+
+  #stage4 {
+    margin: 1em auto;
+    width: 522px;
+    height: 422px;
+  }
+  #stage4 a {
+    position: absolute;
+  }
+  #stage4 a img {
+    padding: 10px;
+    border: 1px solid #ccc;
+    background: #fff;
+  }
+
+  #stage4 a:nth-of-type(1) {
+    -webkit-animation-name: fader;
+    -webkit-animation-delay: 4s;
+    -webkit-animation-duration: 1s;
+    -moz-animation-name: fader;
+    -moz-animation-delay: 4s;
+    -moz-animation-duration: 1s;
+    -ms-animation-name: fader;
+    -ms-animation-delay: 4s;
+    -ms-animation-duration: 1s;
+    z-index: 20;
+  }
+  #stage4 a:nth-of-type(2) { z-index: 10; }
+  #stage4 a:nth-of-type(n+3) { display: none; }
+
+  @-webkit-keyframes fader {
+    from { opacity: 1.0; }
+    to   { opacity: 0.0; }
+  }
+  @-moz-keyframes fader {
+    from { opacity: 1.0; }
+    to   { opacity: 0.0; }
+  }
+  @-ms-keyframes fader {
+    from { opacity: 1.0; }
+    to   { opacity: 0.0; }
+  }
+
+</style>
+
+
           <div id="cfogon"  class="span6">                        
                  <div class="side-a">  
-                 <img src= "/images/cfogon.jpg" alt="" > 
+                  
                
-                </div>              
+                
+          <div id="stage4">
+<a href="1.jpg"><img src="/images/1.jpg" width="500" height="400"></a>
+<a href="2.jpg"><img src="/images/2.jpg" width="500" height="400"></a>
+<a href="3.jpg"><img src="/images/3.jpg" width="500" height="400"></a>
+<a href="4.jpg"><img src="/images/4.jpg" width="500" height="400"></a>
+<a href="5.jpg"><img src="/images/5.jpg" width="500" height="400"></a>
+<a href="6.jpg"><img src="/images/6.jpg" width="500" height="400"></a>
+<a href="7.jpg"><img src="/images/7.jpg" width="500" height="400"></a>
+
+</div>
+             </div>              
            </div> 
           <div class="span3">
-          <img src= "/images/supportn.jpg" alt="" >              
+          <img src= "/images/supportn.jpg" alt="" > 
                             
             </div>           
       </div>
@@ -33,60 +91,40 @@ title: CFO Support
       
           <div class="span2">
           </div>
-          <div class="span6">
-                <div class="box">
-            CFO Advisory Support is a strategic 'CFO' services provider company - and we are based in Mulund East Mumbai. We provide expert finance advisory support to our clients. We can take care of the Financial Management of Small and Medium Scale Enterprises at the affordable cost. We porvide financial guidence without cost of hiring a full time highly paid <stong>CFO </stong>. We can help our client' company to be more profitable and successful and assist to take the company's business to next higher level.
+         
+          <div class="span9">
+             <div class="intropage">
+                <div class="box"><p>“Effective CFO Support” is a finance & accounting consultancy company and provides Guidance to Small and Medium Sized Enterprises (SMEs) at affordable fees.</p> 
+
+<p>We can help our clients to make more profits and assist them in climbing up the next level of success.</p>
+
+<p>We provide part-time services and services required for a limited time period  i.e. for a day or a week or a month. And also our services are available to you 24X7 on an on-line basis. Through our Excellent CFO Support, we provide business owners and senior managers with a new level of financial insight. We make sure our clients are looking at the right information, asking the right questions, and finding the right answers, so that they can understand, manage and grow their  business.</p> 
+<p>We respond to our clients' needs instantly when ever required, by tailoring our services in order to meet their unique requirements. We provide expert and experienced service to our clients with close personal and professional attention.  We consistently strive to provide clients with accurate and insightful advice whereby they are able to take well-informed best decisions in their business. This attitude makes us feel to be a sound business partner of them.</p>
+
+<p>The ideal solution for the small and medium sized companies is to enter into partnership with a consultancy company like us which provides a part-time and as-needed, basis services to clients, so the clients get the best financial expertise and guidance without the high-priced salary.</p> 
+
+<p>We believe that too many small and medium sized companies fail to perform because they lack timely, accurate information and advice on their financial and operational matters.</p>
+<p>Many small businesses do not achieve the required growth or have the ability to adapt to circumstances due to a lack of experience or a lack of resources. Many small businesses would benefit from the services of a CFO but simply do not have the resources to employ one full time.</p>
+<p>We provide these services to our clients at very reasonable costs as per their requirements. This saves our clients high costs for recruiting a full time CFO.</p>
+ 
+<p>Our client companies will have the best financial expertise and a trusted business strategist with them who can make the difference between success and failure. We can take on our clients   toughest financial challenges so they have more time to dedicate to their other business operations.</p>
+<p>Excellent  CFO Support is a top level service company and it suits businesses who want the services of a part time Chief Financial Officer (CFO). This service will seriously challenge your business to move to the next level.</p>
+
+<p>We will answer all of your questions, as they impact your financial situations. We welcome you to call us for a free initial consultation.</p>
+
+
+
+
+
+
+
+
+
+            
                 </div>
           </div>
-          <div class="span3">   
-              <h3>We provide our clients:</h3>
-              <div class="accordion" id="accordion2">
-                <div class="accordion-group">
-                  <div class="accordion-heading">
-                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapse1">
-                  Professional attention
-                  </a>
-                  </div>
-                  <div id="collapse1" class="accordion-body collapse" >
-                    <div class="accordion-inner">
-
-                      Our firm is one of a few providing outsourced CFO support. By combining our expertise, experience and enthusiasm, every client receives close personal and professional attention. CFO support is committed to providing the highest level of service. We achieve this by ensuring that each and every client is served by the expertise of our firm and this attitude makes us a sound business partner.
-                      </div>
-                  </div>
-                </div> 
-                <div class="accordion" id="accordion2">
-                <div class="accordion-group">
-                  <div class="accordion-heading">
-                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapse2">                     
-                    
-                      Timely responsiveness
-                      </a>
-                  </div>
-                  <div id="collapse2" class="accordion-body collapse" >
-                    <div class="accordion-inner">
-               
-                      Companies and individuals who choose CFO Support rely on our competent advice in a timely manner. Though we take time to get to know our clients, their needs, and time constraints. We respond to our clients' need quickly by tailoring our services in order to meet their unique requirements. Responsiveness has earned CFO Support the respect of our clients.
-                      </div>
-                  </div>
-                </div> 
-                <div class="accordion" id="accordion2">
-                <div class="accordion-group">
-                  <div class="accordion-heading">
-                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapse3">                     
-                    
-                  
-                  Quality Support 
-                   </a>
-                  </div>
-                  <div id="collapse3" class="accordion-body collapse" >
-                    <div class="accordion-inner">
-                 
-                    CFO support reputation has been achieved by a strong commitment to providing the highest level of professional quality support. The role of a trusted advisor is not the one that our firm takes lightly. We consistently strive to provide clients with accurate and insightfull advice so that they are able to make well-informed decisions.
-                       </div>
-                  </div>
-                </div> 
-
-       
+          
+                
 
 
 
@@ -94,6 +132,7 @@ title: CFO Support
           </div><!--/row-->
         </div><!--/span-->
       </div><!--/row-->
+    </div>
 </div><!--/.fluid-container-->
 
 
