@@ -198,13 +198,7 @@ h1 {
 
 }
 
-.unit1 {
-	padding: 20px 10px 10px 10px;
-	background-color: #FFF;
-	border-color: #F45808;
-	margin-top: 0;
 
-}
 
 .pull-right {
 	
@@ -215,6 +209,7 @@ h1 {
 .accordion-inner {
 	
 	font-style: bold;
+  background-color: #fff;
 
 }
 
@@ -225,12 +220,7 @@ h1 {
 	perspective: 700;
 }
 
-
-
-
-.wrap .side-a {
-
-	
+.wrap .side-a {	
 	
 	height: 100%;
 	width: 100%
@@ -241,7 +231,6 @@ h1 {
 	color: blue;
 }
 
-	
 .unitbox {
 
 }
@@ -253,7 +242,11 @@ h1 {
 	color: darkblue;
 }
 
- 
+#photo {
+    padding: 10px;
+    border: 1px solid #000;
+    background: #fff;
+  } 
 
  ul #req li  {
 	background: url('marker.png') no-repeat 0 2px;
@@ -290,12 +283,6 @@ margin:0px;
 background-color: #F1B496;
 
 }
-
-.faqunit {
-	padding: 40px 10px 50px 20px;
-	background-color: #FFF;
-	border-color: #F45808;
-	}
 
 
 	/* folded corner */
@@ -360,6 +347,9 @@ background-color: #F1B496;
 }
 
 
+h4 {
+  text-align: center;
+}
 
 
 
